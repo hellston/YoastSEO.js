@@ -1,6 +1,6 @@
 const singleWords = [
 	"ademais", "afinal", "aliás", "analogamente", "anteriormente", "assim", "certamente", "conforme",
-	"conquanto", "contudo", "decerto", "embora", "enfim", "enquanto", "então", "entretanto", "eventualmente",
+	"conquanto", "contudo", "decerto", "embora", "enfim", "em fim", "enquanto", "então", "entretanto", "eventualmente",
 	"igualmente", "inegavelmente", "inesperadamente", "mas", "outrossim", "pois", "porquanto", "porque", "portanto",
 	"posteriormente", "precipuamente", "primeiramente", "primordialmente", "principalmente", "salvo",
 	"semelhantemente", "similarmente", "sobretudo", "surpreendentemente", "todavia",
@@ -17,9 +17,9 @@ const multipleWords = [
 	"em segundo lugar", "em síntese", "em suma", "em terceiro lugar", "em virtude de", "finalmente agora atualmente", "isto é",
 	"já que", "logo após", "logo depois", "logo que", "mesmo que", "não apenas", "nesse hiato", "nesse ínterim", "nesse meio tempo",
 	"nesse sentido", "no entanto", "no momento em que", "ou por outra", "ou seja", "para que", "pelo contrário", "por analogia",
-	"por causa de", "por certo", "por conseguinte", "por conseqüência", "por exemplo", "por fim", "por isso", "por mais que",
-	"por menos que", "por outro lado", "posto que", "se acaso", "se bem que", "seja como for", "sem dúvida", "só para exemplificar",
-	"só para ilustrar", "só que", "sob o mesmo ponto de vista", "talvez provavelmente", "tanto quanto", "uma vez que", "visto que",
+	"por causa de", "por certo", "por conseguinte", "por consequência", "por exemplo", "por fim", "por isso", "por mais que",
+	"por menos que", "por outro lado", "posto que", "provavelmente", "se acaso", "se bem que", "seja como for", "sem dúvida", "só para exemplificar",
+	"só para ilustrar", "só que", "sob o mesmo ponto de vista", "talvez", "tanto quanto", "uma vez que", "visto que",
 ];
 
 /**
